@@ -1,1 +1,1 @@
-# Guest_Lecture_Open_AMA_DKU
+# Guest Lecture and Open AMA at Duke Kunshan University
