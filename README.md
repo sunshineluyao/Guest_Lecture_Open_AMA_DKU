@@ -12,4 +12,4 @@
 
 ![Prof. Jeffrey Wooldridge, 02-14-2022, The Economic Principle of Econometrics](https://github.com/sunshineluyao/Guest_Lecture_Open_AMA_DKU/blob/main/posters/2_15_2022_Jeffrey.jpg)
 
-![Prof. Campbell Harvey, 09-27-2021, DeFi and the Future of Finance](https://github.com/sunshineluyao/Guest_Lecture_Open_AMA_DKU/blob/main/posters/2_15_2022_Jeffrey.jpg)
+![Prof. Campbell Harvey, 09-27-2021, DeFi and the Future of Finance](https://github.com/sunshineluyao/Guest_Lecture_Open_AMA_DKU/blob/main/posters/9_27_2022_Harvey.jpg)
