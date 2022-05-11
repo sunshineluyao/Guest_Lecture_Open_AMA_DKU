@@ -8,6 +8,7 @@
 |09-27-2021|DeFi and the Future of Finance by Prof. Campbell R. Harvey, Professor of Finance, Fuqua School of Business, Duke University|[image](https://github.com/sunshineluyao/Guest_Lecture_Open_AMA_DKU/blob/main/posters/9_27_2022_Harvey.jpg)|[PDF](https://github.com/sunshineluyao/Guest_Lecture_Open_AMA_DKU/blob/main/slides/Harvey_DeFi_2021_Keynote_September_27_2021.pdf)|[Pub](https://ie.pubpub.org/pub/campbellharvey)|[invitation letter](https://github.com/sunshineluyao/Guest_Lecture_Open_AMA_DKU/blob/main/invitation_letters/harvey_invitation.pdf)|
 |09-17-2020|The Legend of Economist and the Methodology of Economics by Prof. Gary Charness, Professor of Economics and the Director of the Experimental and Behavioral Laboratory, Department of Economics, University of California, Santa Barbara|[image](https://github.com/sunshineluyao/Guest_Lecture_Open_AMA_DKU/blob/main/posters/Gary_9_19_2021_The_Legend_of_Economist.png) | NA|[Pub](https://ie.pubpub.org/pub/gary) |[invitation letter](https://github.com/sunshineluyao/Guest_Lecture_Open_AMA_DKU/blob/main/invitation_letters/Gary_Charness_Invitation%20Letter.pdf) |
 |11-22-2021|Fintech and Cybersecurity by Dr. Jimmie Lenz, Director of the Master of Engineering in Fintech and in Cybersecurity, Pratt School of engineering, Duke University|[image](https://github.com/sunshineluyao/Guest_Lecture_Open_AMA_DKU/blob/main/posters/11_22_2021_Jimmie-1.png)|NA|[Pub](https://ie.pubpub.org/pub/jimmie)|[invitation letter](https://github.com/sunshineluyao/Guest_Lecture_Open_AMA_DKU/blob/main/invitation_letters/Jimmie_invitation_letter.pdf)|
+||
 
 
 ## Poster Gallery
@@ -20,3 +21,5 @@
 ![Prof. Gary Charess, 09-17-2021, The Legend of Economists and The Methodology of Economics](https://github.com/sunshineluyao/Guest_Lecture_Open_AMA_DKU/blob/main/posters/Gary_9_19_2021_The_Legend_of_Economist.png)
 
 ![Prof. Jimmie Lenz, 11-22-2021, Fintech and Cybersecurity](https://github.com/sunshineluyao/Guest_Lecture_Open_AMA_DKU/blob/main/posters/11_22_2021_Jimmie-1.png)
+
+![Prof. Fei-Yue Wang, 3-3-2021, Parallel Economics: From Artificial Intelligence to Intelligence and Smart Economy (https://github.com/sunshineluyao/Guest_Lecture_Open_AMA_DKU/blob/main/posters/3_11_2021_Fei-Yue%20Wang.png)
