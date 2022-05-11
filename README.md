@@ -22,4 +22,4 @@
 
 ![Prof. Jimmie Lenz, 11-22-2021, Fintech and Cybersecurity](https://github.com/sunshineluyao/Guest_Lecture_Open_AMA_DKU/blob/main/posters/11_22_2021_Jimmie-1.png)
 
-![Prof. Fei-Yue Wang, 3-3-2021, Parallel Economics: From Artificial Intelligence to Intelligence and Smart Economy (https://github.com/sunshineluyao/Guest_Lecture_Open_AMA_DKU/blob/main/posters/3_11_2021_Fei-Yue%20Wang.png)
+![Prof. Fei-Yue Wang, 3-3-2021, Parallel Economics: From Artificial Intelligence to Intelligence and Smart Economy(https://github.com/sunshineluyao/Guest_Lecture_Open_AMA_DKU/blob/main/posters/3_11_2021_Fei-Yue%20Wang.png)
