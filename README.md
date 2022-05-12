@@ -29,4 +29,4 @@
 ![Dr. Robert Lauko, 12-1-2020, Liquity on Blockchain: Connecting Macroeconomic Policy to the Real World, DKU First Cloud Field Trip to Liquity, Decentralized Borrowing Protocol Running on Ethereum](https://github.com/sunshineluyao/Guest_Lecture_Open_AMA_DKU/blob/main/posters/DKU%20First%20Cloud%20Field%20Trip%20to%20Liquity.png)
 
 
-![[rof. Yulin Liu, 12-10-2020, Decentralized Monetary Policy, Special Guest for Decentralized Borrowing Protocol Running on Ethereum](https://github.com/sunshineluyao/Guest_Lecture_Open_AMA_DKU/blob/main/posters/Yulin_2020_12_10.png)
+![rof. Yulin Liu, 12-10-2020, Decentralized Monetary Policy, Special Guest for Decentralized Borrowing Protocol Running on Ethereum(https://github.com/sunshineluyao/Guest_Lecture_Open_AMA_DKU/blob/main/posters/Yulin_2020_12_10.png)
