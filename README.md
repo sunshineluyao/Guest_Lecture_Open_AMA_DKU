@@ -1,4 +1,4 @@
-# Guest Lecture, Field Trip, and Open AMA at Duke Kunshan University
+# Guest Lecture, Field Trip, and Open AMA Hosted by Prof Luyao Zhang, at Duke Kunshan University
 
 ## Tables of Content
 |**Event**|**Event**|**Poster**|**Slides**|**OER**| **invitations**|
